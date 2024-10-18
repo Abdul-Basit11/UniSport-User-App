@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050995319656",
+    "project_id": "unisport-app-9218e",
+    "storage_bucket": "unisport-app-9218e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050995319656:android:be6147ca4075d2ded52cdd",
+        "android_client_info": {
+          "package_name": "com.example.unisport_player_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCULqYVB0jG74HcFdYWLrWhRDjcNblhf2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
